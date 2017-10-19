@@ -1,0 +1,24 @@
+{
+  "name": "timepack-qiniu",
+  "version": "1.0.1",
+  "description": "qiniu.js plugin for timepack.cn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MillZhang/timepack-qiniu.git"
+  },
+  "keywords": [
+    "qiniu",
+    "timepack",
+    "javascript"
+  ],
+  "author": "millzhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MillZhang/timepack-qiniu/issues"
+  },
+  "homepage": "https://github.com/MillZhang/timepack-qiniu#readme"
+}
